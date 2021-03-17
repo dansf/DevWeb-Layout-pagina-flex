@@ -7,10 +7,14 @@
 <p>
     Layout da página feito inteiramente com flexbox. Anteriormente em outro repositorio meu - <a>https://github.com/dansf/Primeiro-Projeto-Web-de-estudo </a>-, eu fiz um layout apenas com "float" porque era requisito, porém esse aqui pude fazer com flex, apesar de nao saber muito sobre flex ou frontend em si, acredito que ficou agravel o layout.
 </p>
+
 <p>
     Layout/atividade.
 </p>
+
 ![divs2](https://user-images.githubusercontent.com/63010902/111511956-fba36680-872d-11eb-8bd6-04ff38b98ee3.jpg)
+
+
 
 <p>
     O meu projeto feito:
