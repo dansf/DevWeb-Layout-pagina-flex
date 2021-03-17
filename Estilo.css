@@ -1,0 +1,85 @@
+*{
+    border-radius: border-box;
+    text-decoration: none;
+}
+
+/* Parte superior do site */
+header{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.parteesquerda{
+    flex: 0.65;
+    height: 250px;
+}
+
+.verdesup{
+    background-color: green;
+    height: 200px;
+}
+
+.amarelosup{
+    background-color: yellow;
+    height: 50px;
+}
+
+.laranjasup{
+    background-color: orange;
+    flex: 2;
+    height: 250px;
+}
+
+/* Parte Central */
+section{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.azulesq{
+    flex: 0.2;
+    height: 500px;
+    background-color: blue;
+}
+
+.vermelhocentro{
+    flex: 1;
+    height: 500px;
+    background-color: red;
+}
+
+.azuldir{
+    flex: 0.2;
+    height: 500px;
+    background-color: blue;
+}
+
+/* Parte inferior */
+footer{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.laranjainf{
+    background-color: orange;
+    flex: 2;
+    height: 250px;
+}
+
+.partedireita{
+    flex: 0.65;
+    height: 250px;
+}
+
+.amareloinf{
+    background-color: yellow;
+    height: 50px;
+}
+
+.verdeinf{
+    background-color: green;
+    height: 200px;
+}
