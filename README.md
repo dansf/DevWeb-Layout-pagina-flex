@@ -5,7 +5,7 @@
     Esse é um dos meus primeiros "projetos" da materia de desenvolvimento web do curso de <b>Técnico Desenvolvimento de sistemas</b>.
 </p>
 <p>
-    Layout da página feito inteiramente com flexbox. Anteriormente em outro repositorio meu - <a>https://github.com/dansf/Primeiro-Projeto-Web-de-estudo </a>-, eu fiz um layout apenas com "float" porque era requisito, porém esse aqui pude fazer com flex, apesar de nao saber muito sobre flex ou frontend em si, acredito que ficou agravel o layout.
+    Layout da página feito inteiramente com flexbox. Anteriormente em outro repositorio meu - <a href="https://github.com/dansf/Primeiro-Projeto-Web-de-estudo">https://github.com/dansf/Primeiro-Projeto-Web-de-estudo </a>-, eu fiz um layout apenas com "float" porque era requisito, porém esse aqui pude fazer com flex, apesar de nao saber muito sobre flex ou frontend em si, acredito que ficou agravel o layout.
 </p>
 
 <p>
